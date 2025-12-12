@@ -5,9 +5,7 @@ It’s built as a front-end UI project with a focus on layout, spacing, typograp
 
 ## Preview
 
-> Add your screenshot inside the repo (example: `assets/preview.png`) and use:
->
-> `![NutriWave Preview](assets/preview.png)`
+> ss
 
 ## Features
 
