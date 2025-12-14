@@ -3,9 +3,9 @@
 NutriWave is a clean, modern, **fully responsive** landing page for a healthy-meal subscription service.  
 It’s built as a front-end UI project with a focus on layout, spacing, typography, and mobile-first responsiveness.
 
-## Preview
+## Link
 
-> ss
+> https://nafis-rohan.github.io/nutriwave-landing/
 
 ## Features
 
@@ -22,7 +22,6 @@ It’s built as a front-end UI project with a focus on layout, spacing, typograp
 
 - **HTML5**
 - **CSS3** (Flexbox / Grid, responsive breakpoints)
-- **JavaScript (Vanilla)** *(optional if you added interactions like mobile nav / smooth scroll)*
+- **JavaScript (Vanilla)
 
-## Folder Structure (example)
 
