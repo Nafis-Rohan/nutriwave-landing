@@ -6,6 +6,7 @@ It’s built as a front-end UI project with a focus on layout, spacing, typograp
 ## Link
 
 > https://nafis-rohan.github.io/nutriwave-landing/
+> https://nutriwave-nafis.netlify.app/
 
 ## Features
 
